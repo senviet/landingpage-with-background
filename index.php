@@ -18,8 +18,6 @@
 	<meta property="twitter:card" content="summary_large_image">
 
 	<link rel="stylesheet" href="css/style.css">
-	<meta property="og:locale" content="en_VN">
-	<meta property="fb:app_id" content="368906503233945">
 	<link rel="canonical" href="https://sample-landingpage.herokuapp.com/">
 	<meta name="og:url" property="og:url" itemprop="og:url" content="https://sample-landingpage.herokuapp.com/">
 	<meta name="title" property="title" itemprop="title" content="CS4VN - Counter Strike Global Offensive">
