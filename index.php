@@ -182,7 +182,19 @@
 						</div>
 					</div>
 					<div id="n12" class="nav-box small anim1">
-
+						<div class="nav-item hover-zoom park-cam red">
+							<div class="nav-item-background hover-zoom-background"></div>
+							<div class="nav-icon hover-zoom-body">
+								<a href="http://up.4share.vn/d/66555454515f5f50" class="nav-link">
+									<i class="icon">
+										<img src="http://icons.iconarchive.com/icons/graphicloads/polygon/128/download-4-icon.png" alt=""/>
+									</i>
+								</a>
+							</div>
+							<a href="http://up.4share.vn/d/66555454515f5f50" class="nav-link">
+								<h4 class="nav-title">4Share</h4>
+							</a>
+						</div>
 					</div>
 					<div id="n13" class="nav-box large anim5">
 					</div>
@@ -206,19 +218,9 @@
 							</a>
 						</div>
 					</div>
-					<div id="n17" class="nav-box small anim2"><div class="nav-item hover-zoom park-cam red">
-							<div class="nav-item-background hover-zoom-background"></div>
-							<div class="nav-icon hover-zoom-body">
-								<a href="http://up.4share.vn/d/66555454515f5f50" class="nav-link">
-									<i class="icon">
-										<img src="http://icons.iconarchive.com/icons/graphicloads/polygon/128/download-4-icon.png" alt=""/>
-									</i>
-								</a>
-							</div>
-							<a href="http://up.4share.vn/d/66555454515f5f50" class="nav-link">
-								<h4 class="nav-title">4Share</h4>
-							</a>
-						</div></div>
+					<div id="n17" class="nav-box small anim2">
+
+					</div>
 					<div id="n18" class="nav-box small anim2">
 						<div class="nav-item hover-zoom store orange">
 							<div class="nav-item-background hover-zoom-background"></div>
