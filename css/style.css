@@ -587,7 +587,9 @@ i.icon svg {
 
 }
 
-.nav-item.green {
+.nav-item.white {
+    background-color: #fff
+}.nav-item.green {
     background-color: #149782
 }
 

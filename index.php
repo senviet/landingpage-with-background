@@ -95,7 +95,7 @@
 					</div>
 
 					<div id="n6" class="nav-box large anim1">
-						<div class="nav-item hover-zoom plan-your-visit green">
+						<div class="nav-item hover-zoom plan-your-visit white">
 							<div class="nav-item-background hover-zoom-background"></div>
 							<div class="nav-icon hover-zoom-body">
 								<i class="icon">
