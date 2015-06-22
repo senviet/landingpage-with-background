@@ -20,17 +20,17 @@
 	<link rel="stylesheet" href="css/style.css">
 	<meta property="og:locale" content="en_VN">
 	<meta property="fb:app_id" content="368906503233945">
-	<link rel="canonical" href="http://cs4vn.vn/">
-	<meta name="og:url" property="og:url" itemprop="og:url" content="http://cs4vn.vn/">
+	<link rel="canonical" href="https://sample-landingpage.herokuapp.com/">
+	<meta name="og:url" property="og:url" itemprop="og:url" content="https://sample-landingpage.herokuapp.com/">
 	<meta name="title" property="title" itemprop="title" content="CS4VN - Counter Strike Global Offensive">
 	<meta name="og:title" property="og:title" itemprop="og:title" content="CS4VN - Counter Strike Global Offensive">
 	<meta name="twitter:title" property="twitter:title" itemprop="twitter:title" content="CS4VN - Counter Strike Global Offensive">
 	<meta name="description" property="description" itemprop="description" content="CS4VN là câu lạc bộ game bắn súng Counter Strike miễn phí.">
 	<meta name="og:description" property="og:description" itemprop="og:description" content="CS4VN là câu lạc bộ game bắn súng Counter Strike miễn phí.">
 	<meta name="twitter:description" property="twitter:description" itemprop="twitter:description" content="CS4VN là câu lạc bộ game bắn súng Counter Strike miễn phí.">
-	<meta name="image" property="image" itemprop="image" content="img/thumbnail.jpg">
-	<meta name="og:image" property="og:image" itemprop="og:image" content="img/thumbnail.jpg">
-	<meta name="twitter:image:src" property="twitter:image:src" itemprop="twitter:image:src" content="img/thumbnail.jpg">
+	<meta name="image" property="image" itemprop="image" content="https://sample-landingpage.herokuapp.com/img/thumbnail.jpg">
+	<meta name="og:image" property="og:image" itemprop="og:image" content="https://sample-landingpage.herokuapp.com/img/thumbnail.jpg">
+	<meta name="twitter:image:src" property="twitter:image:src" itemprop="twitter:image:src" content="https://sample-landingpage.herokuapp.com/img/thumbnail.jpg">
 </head>
 <body data-status="ready">
 <div id="main-region" class="home root-page">
