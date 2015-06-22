@@ -39,6 +39,11 @@
 			</div>
 		</div>
 	</div>
+	<div id="screen" class="track" data-category="Screen" data-action="Close" data-label="_getCurrentRoute" style="display: block;">
+		<div class="in">
+			<div class="dots-screen"></div>
+		</div>
+	</div>
 	<nav id="nav">
 		<div class="in">
 			<section id="desktop-nav-grid" class="nav-grid hidden-sm hidden-xs">

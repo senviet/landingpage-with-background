@@ -278,7 +278,7 @@ abbr[data-original-title], abbr[title] {
     padding-right: 0 !important
 }
 
-#video-screen, .dinosaur-landing:before, .dots-screen, .dots-screen-inject:after {
+#video-screen, .dots-screen, .dots-screen-inject:after {
     background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAADAgMAAAArRl0sAAAADFBMVEUAAAD///////////84wDuoAAAABHRSTlMADRoztLZuBAAAAA5JREFUCB1jOMCgwMACAAQqAOWPj3ieAAAAAElFTkSuQmCC)
 }
 
@@ -694,4 +694,30 @@ i.icon svg {
 .icon img {
     width: 50%;
     height: auto;
+}
+#screen {
+    display: none;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+    height: 100%;
+}
+#screen .in{
+    background-color: #000;
+    opacity: .2;
+    filter: alpha(opacity=0);
+    -webkit-transition: opacity .5s ease-in-out;
+    transition: opacity .5s ease-in-out;
+    width: 100%;
+    height: 100%;
+}
+#screen .dots-screen {
+    position: absolute;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
 }
