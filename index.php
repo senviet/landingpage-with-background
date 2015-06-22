@@ -29,7 +29,7 @@
 	<meta name="og:image" property="og:image" itemprop="og:image" content="https://sample-landingpage.herokuapp.com/img/thumbnail.jpg">
 	<meta name="twitter:image:src" property="twitter:image:src" itemprop="twitter:image:src" content="https://sample-landingpage.herokuapp.com/img/thumbnail.jpg">
 </head>
-<body data-status="ready">
+<body data-status="ready" style="background: url('http://www.orange2u.my/webshaper/pcm/pictures/csgo-3.jpg');background-size: cover">
 <div id="main-region" class="home root-page">
 	<div id="content">
 		<div class="home-content">
