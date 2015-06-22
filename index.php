@@ -49,7 +49,8 @@
 							<div class="nav-icon hover-zoom-body">
 								<i class="icon">
 									<img src="http://icons.iconarchive.com/icons/designbolts/folded-social-media/128/Facebook-icon.png" alt=""/>
-								</i></div>
+								</i>
+							</div>
 							<a href="https://www.facebook.com/groups/familycs4vn/" class="nav-link">
 								<h4 class="nav-title">Like us</h4>
 							</a>
