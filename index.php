@@ -1,4 +1,4 @@
-<html lang="en" itemscope="" itemtype="http://schema.org/LocalBusiness" class="js no-touch no-xs no-sm no-md lg dash-open nav-open">
+<html lang="en" itemscope="" itemtype="//schema.org/LocalBusiness" class="js no-touch no-xs no-sm no-md lg dash-open nav-open">
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -6,7 +6,7 @@
 
 	<title>CS4VN - Counter Strike Global Offensive</title>
 
-	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,400italic,600italic|Roboto:100,300,400|Dosis:500" rel="stylesheet" type="text/css">
+	<link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,400italic,600italic|Roboto:100,300,400|Dosis:500" rel="stylesheet" type="text/css">
 	<meta name="msapplication-TileColor" content="#2b5797">
 	<meta name="msapplication-TileImage" content="img/thumbnail.jpg">
 
@@ -29,7 +29,7 @@
 	<meta name="og:image" property="og:image" itemprop="og:image" content="https://sample-landingpage.herokuapp.com/img/thumbnail.jpg">
 	<meta name="twitter:image:src" property="twitter:image:src" itemprop="twitter:image:src" content="https://sample-landingpage.herokuapp.com/img/thumbnail.jpg">
 </head>
-<body data-status="ready" style="background: url('http://www.orange2u.my/webshaper/pcm/pictures/csgo-3.jpg');background-size: cover">
+<body data-status="ready" style="background: url('//www.orange2u.my/webshaper/pcm/pictures/csgo-3.jpg');background-size: cover">
 <div id="main-region" class="home root-page">
 	<div id="content">
 		<div class="home-content">
@@ -48,7 +48,7 @@
 							<div class="nav-item-background hover-zoom-background"></div>
 							<div class="nav-icon hover-zoom-body">
 								<i class="icon">
-									<img src="http://icons.iconarchive.com/icons/designbolts/folded-social-media/128/Facebook-icon.png" alt=""/>
+									<img src="//icons.iconarchive.com/icons/designbolts/folded-social-media/128/Facebook-icon.png" alt=""/>
 								</i>
 							</div>
 							<a href="https://www.facebook.com/groups/familycs4vn/" class="nav-link">
@@ -64,7 +64,7 @@
 								<div class="nav-icon hover-zoom-body">
 									<a href="https://www.facebook.com/sharer/sharer.php?u=http://cs4vn.vn/" class="nav-link">
 										<i class="icon">
-											<img src="http://icons.iconarchive.com/icons/graphicloads/polygon/128/share-2-icon.png" alt=""/>
+											<img src="//icons.iconarchive.com/icons/graphicloads/polygon/128/share-2-icon.png" alt=""/>
 										</i>
 									</a>
 								</div>
@@ -114,7 +114,7 @@
 							<div class="nav-icon hover-zoom-body">
 								<a href="https://drive.google.com/folderview?id=0B1mkvWr1dpctUy1odTRrZkxFaVE&usp=sharing" class="nav-link">
 									<i class="icon">
-										<img src="http://icons.iconarchive.com/icons/graphicloads/polygon/128/download-4-icon.png" alt=""/>
+										<img src="//icons.iconarchive.com/icons/graphicloads/polygon/128/download-4-icon.png" alt=""/>
 									</i>
 								</a>
 							</div>
@@ -132,7 +132,7 @@
 							<div class="nav-icon hover-zoom-body">
 								<a href="https://drive.google.com/folderview?id=0BzCVd8Wx_xS9TVdRUVNtcWd0bXM&usp=sharing" class="nav-link">
 									<i class="icon">
-										<img src="http://icons.iconarchive.com/icons/graphicloads/polygon/128/download-4-icon.png" alt=""/>
+										<img src="//icons.iconarchive.com/icons/graphicloads/polygon/128/download-4-icon.png" alt=""/>
 									</i>
 								</a>
 							</div>
@@ -150,7 +150,7 @@
 							<div class="nav-icon hover-zoom-body">
 								<a href="http://1drv.ms/ZlVsrV" class="nav-link">
 									<i class="icon">
-										<img src="http://icons.iconarchive.com/icons/graphicloads/polygon/128/download-4-icon.png" alt=""/>
+										<img src="//icons.iconarchive.com/icons/graphicloads/polygon/128/download-4-icon.png" alt=""/>
 									</i>
 								</a>
 							</div>
@@ -167,7 +167,7 @@
 							<div class="nav-icon hover-zoom-body">
 								<a href="https://www.fshare.vn/folder/BV887Z6K5MG5" class="nav-link">
 									<i class="icon">
-										<img src="http://icons.iconarchive.com/icons/graphicloads/polygon/128/download-4-icon.png" alt=""/>
+										<img src="//icons.iconarchive.com/icons/graphicloads/polygon/128/download-4-icon.png" alt=""/>
 									</i>
 								</a>
 							</div>
@@ -182,7 +182,7 @@
 							<div class="nav-icon hover-zoom-body">
 								<a href="http://up.4share.vn/d/66555454515f5f50" class="nav-link">
 									<i class="icon">
-										<img src="http://icons.iconarchive.com/icons/graphicloads/polygon/128/download-4-icon.png" alt=""/>
+										<img src="//icons.iconarchive.com/icons/graphicloads/polygon/128/download-4-icon.png" alt=""/>
 									</i>
 								</a>
 							</div>
@@ -254,7 +254,7 @@
 		</div>
 	</nav>
 </div>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.js"></script>
 <script src="js/jquery.mb.YTPlayer.js"></script>
 <script src="js/apikey.js"></script>
 <script src="js/app.js"></script>
