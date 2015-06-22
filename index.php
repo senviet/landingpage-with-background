@@ -7,7 +7,6 @@
 	<title>CS4VN - Counter Strike Global Offensive</title>
 
 	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,400italic,600italic|Roboto:100,300,400|Dosis:500" rel="stylesheet" type="text/css">
-
 	<meta name="msapplication-TileColor" content="#2b5797">
 	<meta name="msapplication-TileImage" content="img/thumbnail.jpg">
 
@@ -35,12 +34,7 @@
 	<div id="content">
 		<div class="home-content">
 			<div class="home-background" style="height: 531px;">
-				<iframe style="width: 100vw; height: 100vh" src="https://www.youtube.com/embed/1nkO4N7P-Ys?autoplay=1&controls=0&loop=1&showinfo=0" frameborder="0" allowfullscreen></iframe>
-				<!--<video id="background-video" class="" preload="auto" loop="loop" autoplay="autoplay">
-					<source src="http://www.jurassicworld.com/media/home/jw-looping-background.webm" type="video/webm">
-					<source src="http://cs4vn.vn/vdcsgo.mp4" type="video/mp4">
-					<source src="http://www.jurassicworld.com/media/home/jw-looping-background.ogv" type="video/ogg">
-				</video>-->
+				<a id="bgndVideo" class="player" data-property="{videoURL:'https://www.youtube.com/watch?v=1nkO4N7P-Ys',containment:'body',autoPlay:true, startAt:0, opacity:1,loop:true, quality:'highres'}"></a>
 				<div id="video-screen"></div>
 			</div>
 		</div>
@@ -51,7 +45,7 @@
 				<div>
 					<div id="n1" class="nav-box large anim4">
 						<div class="nav-item hover-zoom raptor-pass orange">
-							<div class="nav-item-background hover-zoom-background" style="background-image: url('/media/global/raptor-pass-bg.jpg')"></div>
+							<div class="nav-item-background hover-zoom-background"></div>
 							<div class="nav-icon hover-zoom-body">
 								<i class="icon">
 									<img src="http://icons.iconarchive.com/icons/designbolts/folded-social-media/128/Facebook-icon.png" alt=""/>
@@ -259,5 +253,9 @@
 		</div>
 	</nav>
 </div>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.js"></script>
+<script src="js/jquery.mb.YTPlayer.js"></script>
+<script src="js/apikey.js"></script>
+<script src="js/app.js"></script>
 </body>
 </html>
